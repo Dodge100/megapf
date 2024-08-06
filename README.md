@@ -1,6 +1,5 @@
 # Public Forum Resources Megathread
 
-> [!WARNING]
 > this is a work in progress dont expect too much. this will eventually become a proper page on my website (once i get around to that).
 
 ## Table of Contents
