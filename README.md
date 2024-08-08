@@ -2,12 +2,6 @@
 
 > this is a work in progress dont expect too much. this will eventually become a proper page on my website (once i get around to that).
 
-## Table of Contents
-
-### Guides
-### Card Cutting
-### Pre-Made Materials
-
 ## Guides
 
 ### [[OLD] Introduction to Public Forum](https://www.speechanddebate.org/wp-content/uploads/Public-Forum-and-Congressional-Debate-Textbook.pdf)
