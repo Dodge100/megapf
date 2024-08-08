@@ -34,13 +34,15 @@
 - basics for weighing
 
 ## Card Cutting
-
+I recommend Paperless Debate's cite creator.
 | firefox | chrome |
-|---|---|
+|:---|:---|
 | [Cite Creator](https://addons.mozilla.org/en-US/firefox/addon/cite-creator-paperless-debate/) | [Cite Creator](https://chromewebstore.google.com/detail/cite-creator/jampigcbgngjedogaoglhpeckidccodi?pli=1) |
 
 **Cite Format:**
 Custom: %author% %y% [%author%, %quals%, %date%, "%title%," %publication%, %url%, accessed %accessed%] //Initials
+
+
 
 ## Pre-Made Materials/Backfiles
 
