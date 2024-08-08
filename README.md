@@ -34,6 +34,7 @@
 - basics for weighing
 
 ## Card Cutting
+
 | firefox | chrome |
 |---|---|
 | [Cite Creator](https://addons.mozilla.org/en-US/firefox/addon/cite-creator-paperless-debate/) | [Cite Creator](https://chromewebstore.google.com/detail/cite-creator/jampigcbgngjedogaoglhpeckidccodi?pli=1) |
