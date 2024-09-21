@@ -1,6 +1,7 @@
 # Public Forum Resources Megathread
 
-> this is a work in progress dont expect too much. this will eventually become a proper page on my website (once i get around to that).
+> [!WARNING]
+>  this is a work in progress dont expect too much. this will eventually become a proper page on my website (once i get around to that).
 
 ## Guides
 
@@ -27,6 +28,9 @@
 ### [Weighing](https://www.uiltexas.org/files/sac/Weighing_Mechanisms_(1).pdf)
 - basics for weighing
 
+### [Wiki](https://opencaselist.com/)
+- [drag this bookmark](https://opencaselist.com/hspf24/search?q=%s) to the bookmarks bar on firefox
+
 ## Card Cutting
 I recommend Paperless Debate's cite creator.
 | firefox | chrome |
@@ -34,8 +38,10 @@ I recommend Paperless Debate's cite creator.
 | [Cite Creator](https://addons.mozilla.org/en-US/firefox/addon/cite-creator-paperless-debate/) | [Cite Creator](https://chromewebstore.google.com/detail/cite-creator/jampigcbgngjedogaoglhpeckidccodi?pli=1) |
 
 **Cite Format:**
-Custom: %author% %y% [%author%, %quals%, %date%, "%title%," %publication%, %url%, accessed %accessed%] //Initials
-
+Custom: 
+```
+%author% %y% [%author%, %quals%, %date%, "%title%," %publication%, %url%, accessed %accessed%] //Initials
+```
 
 
 ## Pre-Made Materials/Backfiles
@@ -67,3 +73,8 @@ Custom: %author% %y% [%author%, %quals%, %date%, "%title%," %publication%, %url%
 ### [Space](https://www.dropbox.com/sh/d7heli70mp0qttu/AABTlquypZGHxRJivMBpdKaZa)
 
 ### [Nueva's K's & Theory](https://drive.google.com/drive/folders/1YAcBd8gbWHbjtYN88ysHqRMp4d83LWWg)
+
+### [Logos Search Engine](https://logos-debate.netlify.app/)
+
+### [Debate.cards](debate.cards)
+- [drag this bookmark](https://debate.cards/?search=%s) to the bookmarks bar on firefox
